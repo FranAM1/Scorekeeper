@@ -16,7 +16,7 @@
         <item name="android:contentDescription">@string/minus_button</item>
     </style>
 
-    <style name="TeamText" parent="TextAppearance.AppCompat.Headline">
+    <style name="TeamText">
         <item name="android:textAppearance">@style/TextAppearance.AppCompat.Display1</item>
     </style>
 </resources>
